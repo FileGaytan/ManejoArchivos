@@ -17,7 +17,7 @@ public class ArchivoPractica {
 	 String linea;
 	 int conta = 0;
 	 int numLinea = 1;
-	 
+	 System.out.println("BIENVENIDO \n");
 	 System.out.println("Ingrese la ruta del archivo y nombre a leer: ");
 	 nombre = tec.nextLine();  
 	 System.out.println("Ingrese la ruta del archivo y nombre a guardar: ");
